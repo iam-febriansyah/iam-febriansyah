@@ -21,7 +21,7 @@ Check out some of my projects and contributions here on GitHub. For a more compr
 
 - **Website**: [febriansyah.dev](https://febriansyah.dev)
 - **Fiverr**: [febriansyah_dev](https://www.fiverr.com/febriansyah_dev)
-- **Upwork**: [Febriansyah](https://id.linkedin.com/in/febriansyah-497b60143)
+- **LinkedIn**: [Febriansyah](https://id.linkedin.com/in/febriansyah-497b60143)
 
 Feel free to reach out if you have any questions, collaboration opportunities, or project inquiries. I'm always excited to connect and explore new possibilities!
 
